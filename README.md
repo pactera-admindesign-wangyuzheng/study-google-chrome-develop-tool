@@ -1,5 +1,5 @@
 # study-google-chrome-develop-tool
-In this repository, I want record the expirence of learning the use method of chrome developement tool
+In this repository, I want to record the experience of learning the use method of chrome development tool
 
 
 
