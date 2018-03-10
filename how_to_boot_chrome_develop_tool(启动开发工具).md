@@ -5,4 +5,7 @@
 today is over *-*
 
 
-![](https://github.com/pactera-testing-wangyuzheng/study-google-chrome-develop-tool/blob/master/allimages/google_develop_tool001.jpg)
+![](https://github.com/pactera-testing-wangyuzheng/study-google-chrome-develop-tool/blob/master/allimages/google_develop_tool001.jpg)<br>
+the tool panel will be displayed <br>
+![](https://github.com/pactera-testing-wangyuzheng/study-google-chrome-develop-tool/blob/master/allimages/google_develop_tool002.jpg)
+
