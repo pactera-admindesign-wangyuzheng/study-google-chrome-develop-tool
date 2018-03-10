@@ -5,7 +5,14 @@ In this repository, I want to record the experience of learning the use method o
 
 
 Plan:
-1.image
-2.boot
-3.component explain
-4.in thinking
+1.image<br>
+2.boot<br>
+3.component explain<br>
+4.in thinking<br>
+
+
+---
+换行的方法<br>
+直接回车不能换行，<br>  
+要使用\<br>  
+
