@@ -17,6 +17,7 @@ Plan:<br>
 要使用\<br>  
 
 more edit method about github you can refer to the following link <br>
-[教程](http://blog.csdn.net/iceking66/article/details/78292700)
+[教程](http://blog.csdn.net/iceking66/article/details/78292700) <br>
 you can get more at the following link<br>
-[效果](https://github.com/guodongxiaren/README)
+[效果](https://github.com/guodongxiaren/README)<br>
+
