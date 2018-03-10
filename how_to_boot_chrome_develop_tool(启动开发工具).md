@@ -3,3 +3,6 @@
 方法1. 按下键盘的F12，直接启动
 方法2. 在网页的任何地方，点击右键，选择[检证]，就可以启动工具了。
 today is over *-*
+
+
+![](https://github.com/pactera-testing-wangyuzheng/study-google-chrome-develop-tool/blob/master/allimages/google_develop_tool001.jpg)
